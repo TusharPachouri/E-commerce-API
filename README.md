@@ -30,7 +30,7 @@ This project is an E-commerce API built using Node.js, Express.js, and MongoDB. 
 
 ## Installation
 
-1. **Clone the repository:** `git clone https://github.com/TusharPachouri/Video-Streaming-Application.git`
+1. **Clone the repository:** `git clone https://github.com/TusharPachouri/E-commerce-API.git`
 2. **Install dependencies:** `npm install`
 3. **Set up environment variables:**
    - Create a `.env` file based on the provided `.env.example` template
